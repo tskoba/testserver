@@ -1,0 +1,6 @@
+test program for text-based protocol, such as, HTTP, SMTP, ...
+written in java.
+
+How to use: to listen port 8080
+javac testserver.java
+java testserver 8080
